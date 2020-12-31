@@ -2,6 +2,8 @@ W8DUT/Autohotspot
 
 This script is a customized fork of https://github.com/RaspberryConnect/AutoHotspot-Installer
 
+hello from rpi2
+
 
 
 
