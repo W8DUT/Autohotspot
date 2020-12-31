@@ -4,6 +4,8 @@ This script is a customized fork of https://github.com/RaspberryConnect/AutoHots
 
 hello from rpi2
 
+hello from rpi3
+
 
 
 
