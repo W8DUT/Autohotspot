@@ -1,3 +1,8 @@
+Change log for W8DUT autohotspot-setup.sh
+
+
+
+
 Change log for autohotspot-setup.sh
 
 0.72
