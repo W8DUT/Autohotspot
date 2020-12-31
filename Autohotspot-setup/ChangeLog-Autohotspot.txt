@@ -1,3 +1,8 @@
+Change log for W8DUT component scripts
+
+
+
+
 Change log for autohotspot and autohotspotN scripts
 
 version 0.961-N/HS-I & version 0.961-N/HS
