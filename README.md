@@ -6,7 +6,7 @@ hello from rpi2
 
 hello from rpi3
 
-
+hello from laptop
 
 
 RaspberryConnect.com
