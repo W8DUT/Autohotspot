@@ -2,6 +2,9 @@ W8DUT/Autohotspot
 
 This script is a customized fork of https://github.com/RaspberryConnect/AutoHotspot-Installer
 
+
+
+
 RaspberryConnect.com
 
 This installer script, the autohotspot and autohotspotN scripts can be shared and modified but all references to RaspberryConnect.com must be kept in place.
