@@ -1,4 +1,4 @@
-Change log for W8DUT component scripts
+Change log for W8DUT conf scripts
 
 
 
