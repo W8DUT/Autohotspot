@@ -74,7 +74,7 @@ check_reqfiles()
 	# 	echo "from RaspberryConnect.com"
 	# 	exit
 	# fi
-	
+	echo "commented out check_reqfiles()"
 }
 
 check_wificountry()
